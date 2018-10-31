@@ -28,7 +28,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-Link to [test page](testpage.md)
+Link to [test page](testpage/)
 
 ### Jekyll Themes
 

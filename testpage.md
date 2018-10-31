@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blogging Like a Hacker
-permalink:testpage.html
+permalink: testpage/
 ---
 
 ## Test Page
