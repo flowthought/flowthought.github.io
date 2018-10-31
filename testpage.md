@@ -1,3 +1,9 @@
+---
+layout: post
+title: Blogging Like a Hacker
+permalink:testpage.html
+---
+
 ## Test Page
 
 You can use the [editor on GitHub](https://github.com/flowthought/flowthought.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
